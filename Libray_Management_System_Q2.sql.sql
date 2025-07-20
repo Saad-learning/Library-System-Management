@@ -283,6 +283,7 @@ ON
 	e.branch_id = b.branch_id
 GROUP BY 
 	1, 2
+;
 
 
 
